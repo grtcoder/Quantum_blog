@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   after high school. Fortunately, I found that there were no step by step resources to learn quantum mechanics.
   I thought as I was going to learn this, I should also make a blog of my journey along with step by step resources
   to learning quantum mechanics from scratch, with both mathematical as well as philosophical treatments.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Quantum_blog" # the subpath of your site, e.g. /blog
+url: "https://grtcoder.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
